@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rheam
+- lol noob
 
 <!---
 rheam/rheam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
